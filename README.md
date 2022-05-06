@@ -1,6 +1,3 @@
----
-output:
----
 ## Preface of the Project
 -  This project showcases how to Automate the Report Generation using `Rmarkdown` and `Latex`.
 - Project requires you to have basic knowledge of Markdown language as well as R and Latex.
