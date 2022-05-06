@@ -1,7 +1,5 @@
 ---
 output:
-  html_document: default
-  word_document: default
 ---
 ## Preface of the Project
 -  This project showcases how to Automate the Report Generation using `Rmarkdown` and `Latex`.
@@ -11,16 +9,4 @@ output:
   1. Preamble
   2. Main Document
   3. End Document
-  
-```{=latex}
-\begin{tabular}{|p{4cm}|p{6cm}|}
-\hline
-  Farm ID & {`r in.filename`} \\[6pt]
-\hline
-  Farmer & Ralla Vagu  \\[6pt]
-\hline
-  Date of Testing & {`r date`} \\[6pt]
-\hline
-  Location & Kalakota \\[6pt]
-\hline
-```
+
